@@ -183,3 +183,12 @@ margin-bottom:10px;
     text-align: center;
     margin-top: 50px;
 }
+/* footer style */
+footer{
+    display: flex;
+    background: #FFF8F3;
+    /* margin ta hocce download ar footer r space ta  */
+    margin-top: 100px;
+    /* padding hocce aikane around space */
+    padding: 130px 230px;
+}
